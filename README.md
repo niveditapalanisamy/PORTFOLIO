@@ -9,9 +9,9 @@ The portfolio highlights my background, skills, projects, and experience as a **
 ## 🚀 Live Website
 
 👉 **View Portfolio:**  
-https://<your-github-username>.github.io/<repository-name>/
+[https://<your-github-username>.github.io/<repository-name>/](https://niveditapalanisamy.github.io/PORTFOLIO/)
 
-*(Replace with your actual GitHub Pages URL)*
+
 
 ---
 
